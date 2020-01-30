@@ -1,2 +1,2 @@
-# HPC-ML
-分布式HPC集群+MPI+Spark部署机器学习模型实践
+# DeepLearning
+深度学习在NLP,CV方面的实践

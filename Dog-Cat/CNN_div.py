@@ -23,7 +23,7 @@ def createDir(path):
             print("创建文件夹失败")
             exit(1)
 
-path="/media/lonelyprince7/3cb87c41-9244-4173-b0bf-d889261210f3/kaggle/dog-cat/"
+path="/media/lonelyprince7/mydisk/CV-dataset/dog-cat/"
 
 createDir(path+"train/dogs")
 createDir(path+"train/cats")

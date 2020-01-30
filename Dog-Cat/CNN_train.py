@@ -10,7 +10,7 @@ import time
 #数据装载
 
 
-data_dir = '/media/lonelyprince7/3cb87c41-9244-4173-b0bf-d889261210f3/kaggle/dog-cat'
+data_dir = '/media/lonelyprince7/mydisk/CV-dataset/dog-cat'
 # 定义要对数据进行的处理
 data_transform = {x: transforms.Compose([transforms.Resize([64, 64]),
                   transforms.ToTensor()])
