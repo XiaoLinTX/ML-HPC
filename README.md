@@ -1,2 +1,2 @@
 # MachineLearning
-学习机器学习过程中的一些小demo和Kaggle上一些经典题目的实现
+机器学习算法和Kaggle上一些经典题目的实现
