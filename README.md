@@ -1,2 +1,2 @@
-# DeepLearning
-深度学习在NLP,CV方面的实践
+# MachineLearning
+学习机器学习过程中的一些小demo
